@@ -2,3 +2,4 @@ streamlit
 python-pptx
 requests
 PyPDF2
+openpyxl
