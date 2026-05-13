@@ -1,1 +1,4 @@
 streamlit
+python-pptx
+requests
+PyPDF2
